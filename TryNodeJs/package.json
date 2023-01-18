@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "run": "node ./makeHttpRequest.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
