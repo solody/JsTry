@@ -6,8 +6,8 @@
 可以直接到官网下载，或者使用 CDN 服务：
 
 ```html
-<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+<script src="//unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+<script src="//unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
 ```
 
 然后提供一个 html 元素：
